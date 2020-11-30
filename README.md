@@ -1,2 +1,2 @@
-# CSC225_MIPS_Assembly_Langage_MAL
+# 🖥️ CSC225_MIPS_Assembly_Langage_MAL 🖥️
 Assembly Language Programming 
